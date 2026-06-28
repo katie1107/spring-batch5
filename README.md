@@ -1,4 +1,4 @@
-* [실무를 위한 Spring Batch의 모든 것 : 성능 개선부터 프로젝트까지](https://fastcampus.co.kr/dev_online_springbatch) 강의 자료
+* [실무를 위한 Spring Batch의 모든 것 : 성능 개선부터 프로젝트까지](https://fastcampus.co.kr/dev_online_springbatch)
 
 ## Docker Set Up
 
